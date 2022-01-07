@@ -5,6 +5,6 @@ Aqui tem um pouquinho de tudo haha.
 
 Em projetos no momento você encontrará projetos com algoritmos clássicos, algoritmos de NLP e algoritmos de visão computacional.
 
-cd Projects
+<a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects'>Projetos</a>
 
 
