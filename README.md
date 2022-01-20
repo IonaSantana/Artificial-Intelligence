@@ -8,6 +8,11 @@ Em projetos no momento você encontrará projetos com algoritmos clássicos, alg
 <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects'>Projetos</a>
 
 <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/Classicos'>Projetos de algoritmos clássicos</a>
+<ul>
+<li>
+  <p>" <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/Classicos/Flight%20Delays%20and%20Cancellations'>Análise sobre o que atrasam os vôos</a>"</p>
+</li>
+</ul>
 
 <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/NLP'>Projetos de NLP</a>
 
