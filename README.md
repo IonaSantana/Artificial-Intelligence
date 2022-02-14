@@ -13,6 +13,9 @@ Em projetos no momento você encontrará projetos com algoritmos clássicos, alg
   <li>
     <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/Classicos/Flight%20Delays%20and%20Cancellations'>Análise sobre o que atrasam os vôos</a>
   </li>
+  <li>
+    <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/Classicos/Titanic'>Titanic, quem sobreviverá?</a>
+  </li>
 </ul>
 
 <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/NLP'>Projetos de NLP</a>
@@ -28,6 +31,9 @@ Em projetos no momento você encontrará projetos com algoritmos clássicos, alg
 <ul>
   <li>
     <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/blob/main/Projects/Visao-Computacional/Cats_and_Dogs/Convolutional_Cats_Dogs.ipynb'> Classificação de gatinhos e catioros</a>
+  </li>
+  <li>
+    <a href = 'https://github.com/IonaSantana/Artificial-Intelligence/tree/main/Projects/Visao-Computacional/Qual_%C3%A9_o_n%C3%BAmero%3F'> Qual número manuscrito é?</a>
   </li>
 </ul>
 
